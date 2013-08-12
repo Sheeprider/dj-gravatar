@@ -5,7 +5,7 @@ setup(
     name='dj-gravatar',
     version=gravatar.__version__,
     packages=find_packages(),
-    long_description=open('README').read(),
+    long_description=open('README.md').read(),
     install_requires=[
         'Django',
     ]
