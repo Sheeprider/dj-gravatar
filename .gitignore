@@ -1,2 +1,5 @@
 .env
 /env/
+/build/
+/dist/
+dj_gravatar.egg-info
