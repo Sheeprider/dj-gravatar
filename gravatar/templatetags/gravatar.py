@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import hashlib
 import urllib
 
@@ -17,7 +16,7 @@ def gravatar(email, size=None, rating=None, default=None):
     """
     Template Syntax::
 
-        {% gravatar email [size] %}
+        {% gravatar email [size] [rating] [default] %}
 
     Example usage::
 
