@@ -16,4 +16,4 @@ MIT, see LICENSE.
 
 ##Installation
 
-	pip install -e git+git@github.com:Sheeprider/dj-gravatar.git#egg=Gravatar
+	pip install -e git+git@github.com:Sheeprider/dj-gravatar.git@1.0#egg=Gravatar
